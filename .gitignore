@@ -1,0 +1,7 @@
+.fleet/
+backend/video_files
+backend/.venv
+backend/venv
+backend/.idea
+backend/database.db
+node_modules/
